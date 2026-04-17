@@ -505,6 +505,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingredientes/banaba/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingredientes/berberina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -523,7 +529,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingredientes/fenogreco/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingredientes/gymnema-sylvestre/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingredientes/nopal/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -535,7 +553,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/ansiedad-glucosa/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/colesterol-alto/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/colesterol-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-gestacional/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -547,7 +583,55 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/fatiga-por-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/glucosa-alta-en-ayunas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/hemoglobina-glicosilada-alta/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/heridas-que-no-sanan/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/higado-graso/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/nefropatia-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/neuropatia-diabetica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/pie-diabetico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/polineuropatia-diabetica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -559,27 +643,51 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/resistencia-a-insulina/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/resistencia-a-la-insulina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/ingredientes/nopal/</loc>
+    <loc>https://glyconorm.pe/condiciones/retinopatia-diabetica-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://glyconorm.pe/ingredientes/fenogreco/</loc>
+    <loc>https://glyconorm.pe/condiciones/retinopatia-diabetica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://glyconorm.pe/ingredientes/banaba/</loc>
+    <loc>https://glyconorm.pe/condiciones/sed-excesiva-polidipsia/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/sindrome-metabolico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/sudoracion-nocturna-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/trigliceridos-altos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
