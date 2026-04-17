@@ -295,12 +295,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-diabetes-tipo-2/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-diabetes-y-corazon/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -308,12 +302,6 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/para-diabetes-y-sobrepeso/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/para-disfuncion-erectil-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -349,19 +337,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-hemoglobina-glicosilada-alta/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-heridas-que-no-cicatrizan/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/para-higado-graso/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -391,18 +367,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-nefropatia-diabetica/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/para-neuropatia-diabetica/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-obesidad-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -427,12 +391,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-pie-diabetico/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-poliuria-diabetica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -445,37 +403,13 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-prediabetes/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-resistencia-insulina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/para-retinopatia-diabetica/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/para-rinones-y-diabetes/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/para-sed-excesiva-polidipsia/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/para-sindrome-metabolico/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -494,7 +428,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -505,8 +439,14 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingredientes/aloe-vera/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingredientes/banaba/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -530,7 +470,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/fenogreco/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -541,8 +481,38 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingredientes/magnesio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingredientes/melon-amargo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingredientes/moringa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingredientes/nopal/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingredientes/vitamina-d3/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingredientes/zinc/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -667,8 +637,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-y-arroz-chaufa-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/diabetes-y-caida-cabello/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-y-chicha-de-jora-festividades/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -735,6 +717,12 @@
   <url>
     <loc>https://glyconorm.pe/condiciones/diabetes-y-ejercicio/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-y-emolient-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1039,6 +1027,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/prediabetes-y-pan-con-chicharron-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/prediabetes-y-sedentarismo-pe/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1117,6 +1111,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/aloe-vera/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/banaba/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/berberina/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
@@ -1135,6 +1141,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/fenogreco/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/gymnema/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
@@ -1147,8 +1159,32 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/magnesio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/melon-amargo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/moringa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/pasuchaca/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/vitamina-d3/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1159,51 +1195,9 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://glyconorm.pe/ingrediente/melon-amargo/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/fenogreco/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/moringa/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/banaba/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://glyconorm.pe/ingrediente/zinc/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/vitamina-d3/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/magnesio/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/aloe-vera/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
