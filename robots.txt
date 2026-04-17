@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.glyconorm.pe/sitemap.xml
+Sitemap: https://glyconorm.pe/sitemap.xml
