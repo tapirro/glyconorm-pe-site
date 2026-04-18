@@ -457,8 +457,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/biotina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/calcio/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/canela/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/coenzima-q10/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -493,6 +511,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/l-arginina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -519,6 +543,12 @@
   <url>
     <loc>https://glyconorm.pe/ingrediente/pasuchaca/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/potasio/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -715,6 +745,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/control-glucosa-nocturna/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/dermopatia-diabetica/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -753,6 +789,12 @@
   <url>
     <loc>https://glyconorm.pe/condiciones/diabetes-y-alcohol-peru/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-y-alimentacion-peruana/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -891,6 +933,12 @@
   <url>
     <loc>https://glyconorm.pe/condiciones/diabetes-y-estres-peru/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/condiciones/diabetes-y-estres/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1129,6 +1177,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/condiciones/neuropatia-autonoma-diabetica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/condiciones/neuropatia-diabetica-pies-pe/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1253,59 +1307,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/condiciones/neuropatia-autonoma-diabetica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/condiciones/diabetes-y-estres/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/condiciones/control-glucosa-nocturna/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/condiciones/diabetes-y-alimentacion-peruana/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/calcio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/potasio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/coenzima-q10/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/biotina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/l-arginina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
