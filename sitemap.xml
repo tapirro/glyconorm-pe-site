@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://glyconorm.pe/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -433,6 +433,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/aloe-vera/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -481,6 +487,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://glyconorm.pe/ingrediente/hierro/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://glyconorm.pe/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -512,6 +524,12 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingrediente/selenio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://glyconorm.pe/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -566,7 +584,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/acido-alfa-lipoico/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -584,19 +602,19 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/berberina/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/canela/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/cromo/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -608,7 +626,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/ingredientes/gymnema-sylvestre/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -686,7 +704,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/condiciones/colesterol-alto/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -728,7 +746,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/condiciones/diabetes-tipo-2/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1118,7 +1136,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/condiciones/neuropatia-diabetica/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1172,7 +1190,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/condiciones/prediabetes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1184,7 +1202,7 @@
   </url>
   <url>
     <loc>https://glyconorm.pe/condiciones/resistencia-a-la-insulina/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1235,23 +1253,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/silicio-organico/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/acido-folico/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://glyconorm.pe/ingrediente/hierro/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
